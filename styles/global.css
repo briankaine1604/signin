@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.btn_style{
+    @apply w-20 h-10 rounded-2xl bg-black text-white border border-slate-500 shadow-md m-10
+}
