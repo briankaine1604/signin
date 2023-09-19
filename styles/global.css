@@ -6,3 +6,7 @@
 .btn_style{
     @apply w-20 h-10 rounded-2xl bg-black text-white border border-slate-500 shadow-md m-10
 }
+
+.loco{
+    @apply  flex-col bg-gray-400 rounded-md bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-10 border border-gray-100
+}
